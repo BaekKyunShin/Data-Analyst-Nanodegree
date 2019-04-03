@@ -1,5 +1,5 @@
-# Data-Analyst-Nanodgree
+# Data-Analyst-Nanodegree
 
- Udacity DAND(Data Analyst Nanodgree) course repository
+ Udacity DAND(Data Analyst Nanodegree) course repository
 
 <https://www.udacity.com/>
