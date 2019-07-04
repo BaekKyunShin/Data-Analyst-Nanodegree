@@ -44,3 +44,6 @@ if __name__ == '__main__':
     
     # plot chart
     exploreWeather.plot_chart(df['South Korea temp'], df['Global temp'])
+
+
+plt.scatter(data = df, x = 'num_var1', y = 'num_var2', s = 'num_var3')
