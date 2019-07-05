@@ -39,3 +39,7 @@ nbviewer Link: https://nbviewer.jupyter.org/gist/BaekKyunShin/541a0dd7dba1662834
  This data set is from <https://www.lyft.com/bikes/bay-wheels/system-data>. This project demonstrates the importance and value of data visualization techniques in the data analysis process. You will use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. The primary method of conveying your findings will be through transforming your exploratory visualizations into polished, explanatory visualizations.
 
 nbviewer Link: https://nbviewer.jupyter.org/gist/BaekKyunShin/dd7c5e94b71ce20af0d8525c4f5c1e66
+
+# Certificate
+
+![DAND_certi](C:\Users\weroo\Desktop\DAND_certi.png)
