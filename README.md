@@ -42,4 +42,4 @@ nbviewer Link: https://nbviewer.jupyter.org/gist/BaekKyunShin/dd7c5e94b71ce20af0
 
 # Certificate
 
-![DAND_certi](C:\Users\weroo\Desktop\DAND_certi.png)
+![DAND_certi](https://cdn.bkshin.com/tistory/DAND/DAND_certi.png)
