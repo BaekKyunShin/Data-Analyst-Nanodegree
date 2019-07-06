@@ -1,14 +1,14 @@
 # Data-Analyst-Nanodegree
+Udacity Data Analyst Nanodegree (DAND) course repository included projects on Medical No shows prediction, Regression, Hypothesis test
+, A/B test, Data Wrangling(gather, assess, clean), and Data Visualization.
 
- Udacity DAND(Data Analyst Nanodegree) course repository
-
-<https://www.udacity.com/>
+You can take a course on Uacity <https://www.udacity.com/>
 
 # Environments
 Anaconda Jupyter Notebook
 ## Installation
 ### Download Anaconda
-Download Anaconda Distribution in https://www.anaconda.com/distribution/
+Download Anaconda Distribution on https://www.anaconda.com/distribution/
 ### Upgrade Conda
 Open Anaconda Prompt
 ```
