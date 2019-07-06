@@ -3,6 +3,8 @@ Udacity Data Analyst Nanodegree (DAND) course repository included projects on Me
 , A/B test, Data Wrangling(gather, assess, clean), and Data Visualization.
 
 You can take the course on Uacity <https://www.udacity.com/>  
+
+
 I wrote up what I studied on my blog (written in Korean) <https://bkshin.tistory.com/category/Data%20Analyst%20Nano%20Degree>
 
 # Environments
