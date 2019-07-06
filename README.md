@@ -6,7 +6,30 @@
 
 # Environments
 Anaconda Jupyter Notebook
-
+## Installation
+### Download Anaconda
+Download Anaconda Distribution in https://www.anaconda.com/distribution/
+### Upgrade Conda
+Open Anaconda Prompt
+```
+conda upgrade conda
+conda upgrade --all
+```
+### Install required packages
+```
+conda install numpy pandas matplotlib seaborn requests statsmodels patsy
+```
+### Install Jupyter notebook
+```
+conda install jupyter notebook
+```
+### Run Jupyter notebook
+```
+jupyter notebook
+```
+  
+Upload my ipynb files to your jupyter environment to run my projects or other codes
+  
 # Project Descriptions
 ### Project 1 - Explore Weather
  Compare the Korean temperature to global average temperature with moving average.
