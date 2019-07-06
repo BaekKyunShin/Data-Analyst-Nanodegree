@@ -28,7 +28,7 @@ conda install jupyter notebook
 jupyter notebook
 ```
   
-Upload my ipynb files to your jupyter environment to run my projects or other codes
+Upload my ipynb files to your jupyter environment to run my projects or other codes.
   
 # Project Descriptions
 ### Project 1 - Explore Weather
