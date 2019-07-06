@@ -1,4 +1,4 @@
-# Data-Analyst-Nanodegree
+# Data Analyst Nanodegree
 Udacity Data Analyst Nanodegree (DAND) course repository included projects on Medical No shows prediction, Regression, Hypothesis test
 , A/B test, Data Wrangling(gather, assess, clean), and Data Visualization.
 
