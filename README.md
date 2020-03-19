@@ -1,11 +1,50 @@
 # Data-Analyst-Nanodegree
 
- Udacity DAND(Data Analyst Nanodegree) course repository
+Udacity Data Analyst Nanodegree (DAND) course repository included projects on Medical No shows prediction, Regression, Hypothesis test , A/B test, Data Wrangling(gather, assess, clean), and Data Visualization.
 
-<https://www.udacity.com/>
+You can take the course on Uacity https://www.udacity.com/
+
+I wrote up what I studied on my blog (written in Korean) 
+
+[https://bkshin.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D](https://bkshin.tistory.com/category/데이터 분석)
 
 # Environments
 Anaconda Jupyter Notebook
+
+## Installation
+
+#### Download Anaconda
+
+Download Anaconda Distribution from https://www.anaconda.com/distribution/
+
+#### Upgrade Conda
+
+Open Anaconda Prompt
+
+```
+conda upgrade conda
+conda upgrade --all
+```
+
+#### Install required packages
+
+```
+conda install numpy pandas matplotlib seaborn requests statsmodels patsy
+```
+
+#### Install Jupyter notebook
+
+```
+conda install jupyter notebook
+```
+
+#### Run Jupyter notebook
+
+```
+jupyter notebook
+```
+
+Upload my ipynb files to your jupyter environment to run my projects or other codes.
 
 # Project Descriptions
 ### Project 1 - Explore Weather
@@ -42,4 +81,6 @@ nbviewer Link: https://nbviewer.jupyter.org/gist/BaekKyunShin/dd7c5e94b71ce20af0
 
 # Certificate
 
-![DAND_certi](https://cdn.bkshin.com/tistory/DAND/DAND_certi.png)
+![Certi](https://s3.ap-northeast-2.amazonaws.com/cdn.bkshin.com/tistory/DAND/DAND_certi.png)
+
+https://confirm.udacity.com/5ULJGS2E
