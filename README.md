@@ -4,9 +4,7 @@ Udacity Data Analyst Nanodegree (DAND) course repository included projects on Me
 
 You can take the course on Uacity https://www.udacity.com/
 
-I wrote up what I studied on my blog (written in Korean) 
-
-[https://bkshin.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D](https://bkshin.tistory.com/category/데이터 분석)
+I wrote up what I studied on [my blog](https://bkshin.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D) (written in Korean) 
 
 # Environments
 
