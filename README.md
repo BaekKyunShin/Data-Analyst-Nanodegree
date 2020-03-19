@@ -9,6 +9,7 @@ I wrote up what I studied on my blog (written in Korean)
 [https://bkshin.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D](https://bkshin.tistory.com/category/데이터 분석)
 
 # Environments
+
 Anaconda Jupyter Notebook
 
 ## Installation
@@ -47,10 +48,13 @@ jupyter notebook
 Upload my ipynb files to your jupyter environment to run my projects or other codes.
 
 # Project Descriptions
+
 ### Project 1 - Explore Weather
+
  Compare the Korean temperature to global average temperature with moving average.
 
 ### Project 2 - Predicting Medical Appointment No Shows
+
  This is Kaggle problem. Dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row. There are 14 features in this dataset. The purpose of this analysis is that what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment.
 
 nbviewer Link: https://nbviewer.jupyter.org/gist/BaekKyunShin/399c16ed6f2284763e9256e9c9db46af
